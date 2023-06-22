@@ -21,6 +21,10 @@ Install the required libraries by running the following command:
 
 ```pip install easyocr pyperclip opencv-python numpy Pillow pynput keyboard```
 
+or with the requirements.txt file with following command:
+
+```pip install -r requirements.txt```
+
 
 
 # Usage
