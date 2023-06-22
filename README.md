@@ -28,7 +28,7 @@ or with the requirements.txt file with following command:
 
 
 # Installation (for the .exe file)
-Just run it i guess
+No Exe right now... Because it´s to big because of the requirements
 
 
 
@@ -37,7 +37,7 @@ Just run it i guess
    
 Or
 
-2. Run the .exe File.
+2. Run the .exe File. (But not right now because there is no exe File)
 
 Press ctrl + alt + c to start the selection process.
 Left-click and hold the mouse to select an area on the screen containing the text you want to copy.
