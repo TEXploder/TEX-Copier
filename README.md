@@ -15,7 +15,7 @@ This is a Python script that allows you to select an area on your screen and cop
 
 
 
-# Installation
+# Installation (for the Python Code)
 Make sure you have Python 3.x installed on your system.
 Install the required libraries by running the following command:
 
@@ -24,6 +24,11 @@ Install the required libraries by running the following command:
 or with the requirements.txt file with following command:
 
 ```pip install -r requirements.txt```
+
+
+
+# Installation (for the .exe file)
+Just run it i guess
 
 
 
