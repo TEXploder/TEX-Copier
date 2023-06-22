@@ -25,7 +25,9 @@ Install the required libraries by running the following command:
 
 # Usage
 1. Run the script using Python: python tex_copier.py.
+   
 Or
+
 2. Run the .exe File.
 
 Press ctrl + alt + c to start the selection process.
