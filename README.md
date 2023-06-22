@@ -1,4 +1,4 @@
-# TEX-Copier V1.0 by TEXploder (Not Fully Developed!)
+# TEX-Copier V1.0 by TEXploder (Beta)
 This is a Python script that allows you to select an area on your screen and copy the text within that area to your clipboard. The selected text is processed using OCR (Optical Character Recognition) and then copied to the clipboard for further use.
 
 ![Logo](https://tools.tex-api.com/files/tex-copier-small-logo.png)
@@ -28,16 +28,18 @@ or with the requirements.txt file with following command:
 
 
 # Installation (for the .exe file)
-No Exe right now... Because it´s to big because of the requirements
+[Download The Exe File](https://tools.tex-api.com/files/TEX-Copier%20V1.0.exe) and just run it!
+
+if you are wondering why the link: The .exe file is not Uploaded to github because it is 400mb and github does not like that :(
 
 
 
 # Usage
-1. Run the script using Python: python tex_copier.py.
+- Run the script using Python: python tex_copier.py.
    
 Or
 
-2. Run the .exe File. (But not right now because there is no exe File)
+- Run the .exe File.
 
 Press ctrl + alt + c to start the selection process.
 Left-click and hold the mouse to select an area on the screen containing the text you want to copy.
