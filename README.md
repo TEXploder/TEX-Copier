@@ -3,6 +3,8 @@ This is a Python script that allows you to select an area on your screen and cop
 
 ![Logo](https://tools.tex-api.com/files/tex-copier-small-logo.png)
 
+
+
 # Requirements
 - Python 3.x
 - easyocr library
