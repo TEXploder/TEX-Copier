@@ -57,4 +57,6 @@ Paste the copied text wherever you need it.
 The script uses the easyocr library for text recognition, supporting English and German languages by default. You can modify the text_recognition function to add or remove language support as needed.
 Disclaimer: The TEX-Copier script is provided as-is without any warranty. Use it responsibly and respect the privacy of others when capturing and processing text from their screens.
 
+
+
 Feel free to customize and enhance the script as per your requirements. And if you want to make it your own but on the base of mine then credit me: [TEXploder](https://www.texploder.com).
